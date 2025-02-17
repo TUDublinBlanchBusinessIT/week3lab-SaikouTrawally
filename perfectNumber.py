@@ -1,6 +1,21 @@
-#Add your name here
-#Add the date here
-#Add the filename here
+#Saikou Trawally
+#17/02/2024
+#perfectNumber.py
+
+
+def isPerfectNumber(n):
+    if sum{divsors(n)} == n:
+        return True 
+        return False 
+print(isPerfectNumber(450))
+if isPerfectNumber(450):
+    print("it is a perfect number")
+
+else:
+    print("it is not a perfect number")
+
+
+
 
 #A perfect number is one for which all the divisors of the number add up to the
 #number itself. For example the divisors of 28 are 1,2,4,7,14 which added together gives 28
