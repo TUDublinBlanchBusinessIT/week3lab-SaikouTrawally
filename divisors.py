@@ -1,6 +1,17 @@
-#Add your name here
-#Add the date here
-#Add the filename here
+#Saikou Trawally
+#17/02/2024
+#divisors.py
+
+
+
+
+def divisors(n):
+    divisors_list=[]
+    for i in range (1,n):
+        if n% i ==0:
+            divisors_list.append
+    return divisors_list        
+
 
 #Add a function below called divisors(num) which takes one argument of type integer
 #and returns a list of all the divisors(factors) of that that number -
